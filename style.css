@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Marko One", serif;
+}
+
+body {
+    background-color: rgba(245, 126, 22, 0.65);
+    background-size: 400px;
+    background-image: url("/rose.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+
+}
+
+.box {
+    background-color: rgba(255, 228, 196, 0.53);
+    height: 43vh;
+    width: 90vw;
+    margin: auto;
+    background-image: url(/dot.png);
+    background-repeat: repeat-x;
+    background-position-x: 10.5%;
+    text-align: center;
+
+}
+
+.box h1 {
+    text-align: center;
+    padding-top: 50px;
+    color: purple;
+}
+
+#location {
+    font-style: italic;
+    text-align: center;
+}
+
+h2 {
+    display: inline;
+    font-style: italic;
+    padding: 10px;
+
+}
+
+.items,
+ul,
+li,
+a {
+    list-style: none;
+    text-decoration: none;
+    padding: 5px;
+    color: purple;
+
+}
+
+.title {
+    text-align: center;
+    color: orangered;
+    margin-top: 20px;
+    letter-spacing: 1rem;
+}
+
+
+
+#fp {
+    color: black;
+    margin-top: 10px;
+}
+
+h4 {
+    margin-top: 10px;
+    padding-left: 80px;
+}
+
+.sp {
+    padding-left: 120px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+.main courses {
+    margin-top: 10px;
+}
+
+#fp {
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+}
+
+.food3{
+    padding: 20px;
+}
